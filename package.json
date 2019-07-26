@@ -1,0 +1,25 @@
+{
+  "name": "Error-404-Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "nodemon": "^1.19.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vibhoremohnot72/Error-404-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vibhoremohnot72/Error-404-Bot/issues"
+  },
+  "homepage": "https://github.com/vibhoremohnot72/Error-404-Bot#readme"
+}
